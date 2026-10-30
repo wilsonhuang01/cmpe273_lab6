@@ -1,0 +1,6 @@
+*
+!inventory/
+!inventory/inventory.py
+!inventory/requirements.txt
+!client/
+!client/client.py
